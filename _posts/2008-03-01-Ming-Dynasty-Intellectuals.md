@@ -2,7 +2,7 @@
 layout:     post
 title:      明代知识分子的博客生活
 subtitle:   说明代小品文
-date:       2018-06-28
+date:       2008-03-01
 author:     慎庐
 header-img: img/post-bg-debug.png
 catalog: true
