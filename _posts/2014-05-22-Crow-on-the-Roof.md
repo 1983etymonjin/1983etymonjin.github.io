@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      说洪昉思《长生殿》郭子仪唱辞中的“屋上瞻乌”
-subtitle:   
-date:       2018-06-28
+title:      昆曲用典中的经学
+subtitle:   说洪昉思《长生殿》郭子仪唱辞中的“屋上瞻乌”
+date:       2014-05-22
 author:     慎庐
 header-img: img/post-bg-debug.png
 catalog: true
