@@ -2,7 +2,7 @@
 layout:     post
 title:      西子湖头第一楼
 subtitle:   俞樾与诂经精舍
-date:       2010-06-01
+date:       2008-12-01
 author:     慎庐
 header-img: img/post-bg-debug.png
 catalog: true
