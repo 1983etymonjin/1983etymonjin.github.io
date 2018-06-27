@@ -2,7 +2,7 @@
 layout:     post
 title:      谁怜流落江湖上，玉骨冰肌未肯枯
 subtitle:   说李清照改嫁问题
-date:       2007-11-01
+date:       2008-04-19
 author:     慎庐
 header-img: img/post-bg-debug.png
 catalog: true
