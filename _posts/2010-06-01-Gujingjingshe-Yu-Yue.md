@@ -2,7 +2,7 @@
 layout:     post
 title:      西子湖头第一楼
 subtitle:   俞樾与诂经精舍
-date:       2018-06-28
+date:       2010-06-01
 author:     慎庐
 header-img: img/post-bg-debug.png
 catalog: true
@@ -12,7 +12,7 @@ tags:
     - 学人
 ---
 
-这是一篇六年前的旧文了
+发在人民日报下属的《大地》期刊上，不过这刊物现在还活着吗？
 _________________
 
 同治七年九月，诂经精舍新任主讲俞樾和妻子姚文玉倚着第一楼的栏杆遥望西湖。
