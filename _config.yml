@@ -22,7 +22,11 @@ RSS: false
 douban_username:     etymon
 
 
+# 统计
 
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 19b3b1a7dd1815f11c89132e793a044c
 
 
 # Build settings
